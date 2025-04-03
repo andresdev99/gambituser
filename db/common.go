@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"gambituser/models"
 	"gambituser/secretm"
-	//"github.com/go-sql-driver/mysql"
+	_ "github.com/go-sql-driver/mysql"
 	"os"
 )
 
